@@ -1,0 +1,48 @@
+/*===== default css  =====*/
+html{
+  scroll-behavior: smooth;
+}
+body{
+	padding: 0;
+	margin: 0;
+	font-family: 'Lora', serif;
+	
+}
+#home-section{
+    background: url(img/pexels-marko-klaric-6163830.jpg) no-repeat center top; background-size: cover;
+    min-height: 600px;
+    padding-bottom: 50px;
+}
+    
+    #home-section    .dark-overlay{
+        min-height: 600px;
+    }
+     #home-section    .display-5{
+        color: #000;
+    }
+
+    #home-section    .lead{
+        font-size: 49px;
+        border-radius: 5px;
+    }
+
+     #home-section    .theme{
+        color: #000;
+        border-radius: 5px;
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+
+    #home-section    .lead1{
+        font-size: 26px;
+        border-radius: 5px;
+        padding-left: 30px;;
+        text-transform: uppercase;
+    }
+
+    #home-section    .card-form{
+        opacity: 0.8;
+}
+#share-head-section{
+    text-transform: uppercase;
+}
